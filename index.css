@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.header{
+    display: block;
+    width: 1175px;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+}
+.site-name{
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    padding: 10px 0px;
+    text-align: center;
+    background-color: #576F72;
+    color: rgb(196, 216, 233);
+}
+.navi{
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
+.navi ul{
+    list-style: none;
+    
+    background-color: #abccd0;
+}
+.navi ul li{
+    display: inline-block;
+    margin: 0;
+    padding: 10px;
+   
+}
+li a{
+    text-decoration: none;
+    font-weight: 600;
+    color: rgb(118, 121, 124);
+}
+li:hover{
+    background-color: #75d6e1;
+    
+}
+li a:hover{
+    color: rgb(16, 67, 118);
+
+}
+.page-body{
+    display: block;
+    width: 1175px;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    background-color: #F0EBE3;
+}
+.footer{
+    display: block;
+    width: 1175px;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    background-color: #E4DCCF;
+}
+.footer ul{
+    list-style: none;
+}
+.footer ul li{
+    color: red;
+    padding: 10px;
+}
+.footer ul li:hover{
+    background-color: yellow;
+}
+.resim{
+    display: block;
+    margin: 0 auto;
+}
+.baslik{
+    padding-left: 10px;
+    margin: 0 auto;
+    color: #75d6e1;
+    text-align: left;
+}
+#adresverme{
+    display:block;
+    margin-top: 25px;
+    text-align: right;
+    font-weight: 600;
+    padding-right: 10px;
+}
